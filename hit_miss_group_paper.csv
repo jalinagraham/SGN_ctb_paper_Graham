@@ -1,0 +1,18 @@
+﻿Brain,group,DTN_group,LMN_group,DTN surround location,DTN surround amount,LMN surround location,LMN surround amount,num_LMN_slices_filled,avg_pct_LMN_fill,num_LMN_slices_mostly_filled_50,num_LMN_slices_mostly_filled_30,ctb_area_um_sqrd,ctb_area_mm_sqrd,LMN_ctb_area_um_sqrd,LMN_ctb_area_mm_sqrd,double_comp_group
+JG_55,LMN_hit,,LMN_hit,,,,medium,7,0.47,5,6,830875,0.83,302037,0.3,
+JG_61,LMN_hit,,LMN_hit,,,,small,1,0.77,1,1,630605,0.63,56841,0.06,
+JG_65,LMN_hit,,LMN_hit,,,,large,2,0.43,1,1,2596577,2.6,532701,0.53,
+JG_84,"DTN_adjacent, LMN_adjacent",DTN_adjacent,LMN_adjacent,medial,medium,"dorsal, caudal",small,0,0,0,0,,,,,double_adjacent
+JG_88,"DTN_hit,LMN_miss",DTN_hit,LMN_miss,"ventral, lateral",N/A,N/A,N/A,0,0,0,0,,,,,double_adjacent
+JG_85,"double_hit, DTN_hit, LMN_hit",DTN_hit,LMN_hit,"dorsal, medial, caudal",medium,"medial, dorsal",small,5,0.28,2,3,928364,0.93,155363,0.16,double_hit
+JG_86,"DTN_adjacent, LMN_adjacent",DTN_adjacent,LMN_adjacent,ventricle,small,"dorsal,tuberomammillary",medium,4,0.08,0,0,347723,0.35,31080,0.03,double_adjacent
+JG_87,"LMN_adjacent, DTN_miss",DTN_miss,LMN_adjacent,N/A,N/A,medial ,small,2,0.01,0,0,72507,0.07,3712,0,
+JG_89,"double_hit, DTN_hit, LMN_hit",DTN_hit,LMN_hit,"dorsal,lateral",medium,medial,small,2,0.41,1,1,273814,0.27,87202,0.09,double_hit
+JG_90,"DTN_hit,LMN_adjacent",DTN_hit,LMN_adjacent,N/A,none,"dorsal, injection_track",small,2,0.02,0,0,37857,0.04,4575,0,single_hit_LMN
+JG_91,"DTN_adjacent, LMN_adjacent",DTN_adjacent,LMN_adjacent,dorsal ,small,"injection_track,medial",small,3,0.15,0,0,274143,0.27,52191,0.05,double_adjacent
+JG_92,"DTN_adjacent, LMN_hit",DTN_adjacent,LMN_adjacent,"dorsal , lateral",small,medial,small,0,0,0,0,,,,,double_adjacent
+JG_93,"DTN_adjacent, LMN_adjacent",DTN_adjacent,LMN_adjacent,dorsal ,small,N/A,N/A,4,0,0,0,318641,0.32,671,0,double_adjacent
+JG_94,"double_hit, DTN_hit, LMN_hit",DTN_hit,LMN_hit,"dorsal, lateral",medium,dorsal,moderate,5,0.25,1,3,944546,0.94,185855,0.19,double_hit
+JG_95,"DTN_adjacent, LMN_adjacent",DTN_adjacent,LMN_adjacent,"dorsal, caudal, sphenoid",small,N/A,N/A,0,0,0,0,156585,0.16,0,0,double_adjacent
+JG_96,"DTN_adjacent, LMN_adjacent",DTN_adjacent,LMN_adjacent,injection_track,small,"dorsal, medial, anterior",large,0,0,0,0,378498,0.38,0,0,double_adjacent
+JG_97,"DTN_hit, LMN_adjacent",DTN_hit,LMN_adjacent,"ventral, lateral",large,N/A,medium,1,0.12,0,0,28527,0.03,11797,0.01,single_hit_DTN
